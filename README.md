@@ -96,7 +96,7 @@ This means the USB connection is successfully forwarding port **9999** between y
 
 ### 7. Start the PC Server
 
-Download the **`main.py`** file and run it on your PC.
+Download the **`main.py`** [https://github.com/Atanu2008/USBAudioBridge/blob/main/main.py]file and run it on your PC.
 
 Once the application opens:
 
